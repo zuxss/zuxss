@@ -1,7 +1,12 @@
-### Hi there 👋
+ <Hello there/> 👋
+ 
+ I'm Franco Pacheco. I live in San Miguel de Tucumán - Argentina. 
 
+🌱 I’m currently on my way to become FullStack Developer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuxss)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**zuxss/zuxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

@@ -4,7 +4,8 @@
 
 🌱 I’m currently on my way to become FullStack Developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuxss&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Zuxss GitHub stats](https://github-readme-stats.vercel.app/api?username=zuxss&show_icons=true&theme=merko)](https://github.com/zuxss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuxss&layout=compact&theme=synthwave)](https://github.com/zuxss/github-readme-stats)
 <!--
 
 

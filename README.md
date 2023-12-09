@@ -2,7 +2,7 @@
  
  I'm Franco Pacheco. I live in San Miguel de Tucumán - Argentina. 
 
-🌱 I’m currently on my way to become FullStack Developer
+⚡ Frontend and Game Developer ⚡
 
 [![Zuxss GitHub stats](https://github-readme-stats.vercel.app/api?username=zuxss&show_icons=true&theme=merko)](https://github.com/zuxss/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuxss&layout=compact&theme=synthwave)](https://github.com/zuxss/github-readme-stats)
